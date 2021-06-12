@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rana Suraj Pratap",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp779/iChat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rsp779/iChat/issues"
+  },
+  "homepage": "https://github.com/rsp779/iChat#readme",
+  "description": ""
+}

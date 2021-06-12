@@ -1,0 +1,78 @@
+.logo{
+    display: block;
+    margin: auto;
+    border: 2px solid blueviolet;
+    width: 70px;
+    height : 70px;
+}
+h1{
+    margin-top: 12px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.container{
+    max-width: 955px;
+    background-color: rgb(209, 144, 223);
+    margin: auto;
+    height: 60vh;
+    padding: 33px;
+    overflow-y: auto;
+    margin-bottom: 23px;
+    border-radius: 15px;
+    border: 3px solid black;
+    
+    background-image: url('swiz.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.message{
+    background-color: rgb(235, 89, 79) ;
+    width : 30%;
+    padding: 10px;
+    margin: 17px 3px;
+    border: 2px solid black;
+    border-radius: 12px;
+    font-size: 22px;
+    font-family: cursive;
+   
+}
+.right{
+    float: right;
+    clear: both;
+   
+}
+.left{
+    float: left;
+    clear: both;
+}
+#send-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 1000px;
+    width: 100%;
+    
+    
+}
+#messageInp{
+    width: 86%;
+    border: 3px solid black;
+    border-radius: 6px;
+    height: 34px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+    width: 10%;
+    cursor: pointer;
+    border: 4px solid black;
+    border-radius: 6px;
+    height: 34px;
+
+}
+body{
+    height: 100vh;
+    background-image: url('win.png');
+   background-size: cover;
+}
